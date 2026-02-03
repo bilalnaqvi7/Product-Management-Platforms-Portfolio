@@ -8,7 +8,7 @@ The work here reflects ownership across the **entire product lifecycle** — fro
 ---
 
 ## Product Scope & Domains Covered
-- Creator Commerce & Affiliate Platforms (Client/ Brand's end - B2B and Customer's end - B2C)
+- Creator Commerce & Affiliate Platforms (B2B2C)
 - White-label Product Strategy & Go-To-Market
 - Onboarding, Activation & Retention Systems (CLM)
 - Payments, Withdrawals & Compliance UX
@@ -115,7 +115,25 @@ Designed a **secure, compliant payout experience** for creators and partners.
 
 ---
 
-### Project 03 — Automation-First Affiliate Tooling
+### Project 03 — Creator Commerce Consumer App (Shoppr)
+**File**
+- `Shoppr.pdf`
+
+**Focus**
+Built a consumer-facing creator shopping experience blending **content + commerce**.
+
+**Key Flows**
+- OTP-based onboarding
+- Creator profiles & collections
+- Product tagging & deep linking
+- Wishlist & discovery mechanics
+
+**Outcome**
+Validated creator-led commerce UX patterns and content-to-checkout journeys.
+
+---
+
+### Project 04 — Automation-First Affiliate Tooling
 **File**
 - `EK Affiliaters Presentation_Complete.pptx`
 
@@ -134,7 +152,7 @@ Enabled creators to scale distribution during high-sale moments with minimal eff
 
 ---
 
-### Project 04 — Corporate Ambassador Program (CAP)
+### Project 05 — Corporate Ambassador Program (CAP)
 **File**
 - `CAP Plan_Summary_Process + Outcomes.pdf`
 
@@ -179,7 +197,7 @@ Designed a structured ambassador program for controlled acquisition & activation
 
 ---
 
-## Skills Demonstrated 
+## Skills Demonstrated (ATS-Friendly)
 - Product Strategy & Discovery
 - PRDs & Roadmapping
 - User Journeys & CLM
@@ -195,7 +213,7 @@ Designed a structured ambassador program for controlled acquisition & activation
 - Microsoft AI Product Manager
 - Google Data Analytics
 - GA4 Certification
-- Product Strategy, Launch & Roadmapping (Product School)
+- Product Launch & Roadmapping (Product School)
 - Behavioural Analytics & Customer Segmentation
 - BCG X – Gen AI (Forage)
 
